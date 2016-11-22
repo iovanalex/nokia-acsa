@@ -13,5 +13,5 @@ int cmovdiff(int x, int y){
 
 int lcount=0;
 int absdiff3(int x, int y){
-	return x<y?(lcount=10, y-x):(count=20,x-y);
+	return x<y?(lcount=10, y-x):(lcount=20,x-y);
 }
