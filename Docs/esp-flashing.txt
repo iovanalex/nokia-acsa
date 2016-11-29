@@ -1,0 +1,21 @@
+//http://www.esp8266.com/viewtopic.php?f=6&t=811&start=20
+
+samehhady wrote:
+I've just received my ESP-07, it is the 16 pin version with blue led always on.
+I was able to flash it easily by connecting 
+CODE: SELECT ALL
+GPIO15 to GND
+CH_PD to VCC
+GPI0 to GND
+
+
+What I did is adding a button to connect the GPI0 to GND, when I want to flash it i remove the FTDI and press on the button then put back the FTDI cable then stop pressing on the button.
+
+What I've noticed is if you are on the flash mode the FTDI led will not blink but if you are on normal mode it will blink fast.
+
+
+soldered the 4th module, just in case this problem of mine can be caused by floating pins, i only soldered tx rx gpio15 gnd vcc and ch_pd.. I know that there is a workin at firmware on them but.. nothing... just nothing again.. :/ gonna try to trace the pin wire and try to find if something is wrong with whole lot/delivery...
+
+
+---------------!!!!!!!!!!!!!!!!!!!!!!----------------------
+e bine sa resetam si sursa de lab cu pinul GPIO0 bagat la ground
