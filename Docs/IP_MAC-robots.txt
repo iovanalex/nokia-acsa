@@ -1,0 +1,11 @@
+Robot 2
+AP, STA MAC: 5E-CF-7F-CF-6F-C0
+From Web UI: 5c:cf:7f:cf:6f:66
+IP: 192.168.3.79 (static lease in router)
+
+Robot 3
+AP,STA MAC: 5E-CF-7F-CF-71-02
+
+Robot 1
+AP, STA MAC: 5E-CF-7F-CF-71-C0
+IP: http://192.168.3.17/ (static lease)
