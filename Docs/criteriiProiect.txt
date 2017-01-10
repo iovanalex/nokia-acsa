@@ -1,0 +1,12 @@
+O1) Existenta unui repo functional si sinconizat la zi: 0.5p
+O2) Conectarea la cloud si sincronizarea cu repo personal: 1p
+O2) Detectia unui obiect (de o anumita culoare): 1p
+O3) Detectia celor doua "obiecte": rosu si verde: 1p
+O4) Punerea in evidenta a schimbarii coordonatelor celor doua obiecte: 1p
+O5) Implementarea unei strategii de detectie a orientarii: 2p
+O6) Implementarea unei strategii de lupta: 1p
+O7) Detectia iesirii din ring: 0.5p
+O8) Functionarea cu oponent (chiar mutat manual): 1p
+O9) Lupta coerenta: 1p
+
+Alternativ) Castigarea a doua din trei lupte: 10p
